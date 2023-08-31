@@ -20,15 +20,19 @@ Using Direct Method for estimate effect of covariates in Cumulative Incidnece Fu
 
 
 * Free software: MIT license
-* Documentation: https://pysurv-cmp1.readthedocs.io.
+* Documentation: https://pypi.org/project/pysurv-cmp1/.
 
 
 Features
 --------
+* Bringing a new statistical method in Python
 
-* TODO
 
-Credits
--------
+Usage
+------
+
+To use the package, you can attribute it both through GitHub and through the pypi
+::
+        
 
 
