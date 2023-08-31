@@ -40,6 +40,10 @@ To use the package, you can install it both through GitHub and through the pypi.
         .. code-block:: PyPI 
                 pip install pysurv_cmp1
 
+``
+pip install git+https://github://github.com/stats9/pysurv_cmp1.git
+``
+
 
 
 
