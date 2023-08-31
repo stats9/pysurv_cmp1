@@ -31,8 +31,15 @@ Features
 Usage
 ------
 
-To use the package, you can attribute it both through GitHub and through the pypi
-::
-        
+To use the package, you can install it both through GitHub and through the pypi.
+
+
+.. for install ::
+  .. GitHub ::
+        pip install git+https://github://github.com/stats9/pysurv_cmp1.git
+  
+  .. PyPi ::
+        pip install pysurv_cmp1
+
 
 
