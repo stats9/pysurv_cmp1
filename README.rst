@@ -33,23 +33,12 @@ Usage
 
 To use the package, you can install it both through GitHub and through the pypi.
 
+.. Code::
+        .. code-block:: GitHub
+                pip install git+https://github://github.com/stats9/pysurv_cmp1.gi
 
-.. example-code::
-
-  .. code-block:: JSON
-
-    {
-      "key": "value"
-    }
-
-  .. code-block:: python
-
-    pygments_style = 'sphinx'
-
-
-  .. code-block:: ruby
-
-    print "Hello, World!\n"
+        .. code-block:: PyPI 
+                pip install pysurv_cmp1
 
 
 
